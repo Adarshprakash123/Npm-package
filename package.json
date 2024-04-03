@@ -1,0 +1,14 @@
+{
+  "name": "ok_first",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000o\u0000k\u0000_\u0000f\u0000i\u0000r\u0000s\u0000t\u0000_\u0000n\u0000p\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "",
+  "license": "ISC"
+}
